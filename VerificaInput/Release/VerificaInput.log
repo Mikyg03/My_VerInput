@@ -1,0 +1,12 @@
+﻿  inputInt.c
+  inputMonoInt.c
+  inputUint.c
+  main.c
+  selectSN.c
+  selectVF.c
+  strToInt.c
+  strToUint.c
+  Generazione codice in corso...
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  VerificaInput.vcxproj -> C:\Users\Michele\source\repos\VerificaInput\Release\VerificaInput.exe
